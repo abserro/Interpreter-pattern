@@ -34,4 +34,6 @@ Cоздать простейший интерпретатор текстовог
 ### Решение
 
 Диаграмма классов:
+![diagram_classes](https://user-images.githubusercontent.com/107203406/235630323-3941c8d4-56b5-4680-a221-a6c0dfe4b7a0.png)
+
 
